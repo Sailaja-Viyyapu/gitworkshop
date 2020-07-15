@@ -1,0 +1,1 @@
+Tis is a second file.whose name is file2.txt. in this also we can write any data.
